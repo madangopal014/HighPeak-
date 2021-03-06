@@ -1,0 +1,97 @@
+TESTCASE :1
+input :1
+Number of employees: 3
+
+Goodies and Prices:
+Fitbit Plus: 7980
+IPods: 22349
+MI Band: 999
+Cult Pass: 2799
+Macbook Pro: 229900
+Digital Camera: 11101
+Alexa: 9999
+Sandwich Toaster: 2195
+Microwave Oven: 9800
+Scale: 4999
+__________________
+out put :1
+The number of employees: 3 
+
+The goodies selected for distribution are:
+
+Microwave Oven: 9800
+Alexa: 9999
+Digital Camera: 11101
+
+And the difference between the chosen goodie with highest price and the lowest price is 1301 
+
+
+__________________________________________________________________________________________________
+TESTCASE :2
+Input: 2
+Number of employees: 7
+
+Goodies and Prices:
+Fitbit Plus: 7980
+IPods: 22349
+MI Band: 999
+Cult Pass: 2799
+Macbook Pro: 229900
+Digital Camera: 11101
+Alexa: 9999
+Sandwich Toaster: 2195
+Microwave Oven: 9800
+Scale: 4999
+______________
+OUTPUT :2
+The number of employees: 7
+
+The goodies selected for distribution are:
+
+MI Band: 999
+Sandwich Toaster: 2195
+Cult Pass: 2799
+Scale: 4999
+Microwave Oven: 9800
+Alexa: 9999
+Digital Camera: 11101
+
+And the difference between the chosen goodie with highest price and the lowest price is 10102
+
+_________________________________________________________________________________________________V
+TESTCASE :3
+
+Input :3
+Number of employees: 8
+
+Goodies and Prices:
+Fitbit Plus: 7980
+IPods: 22349
+MI Band: 999
+Cult Pass: 2799
+Macbook Pro: 229900
+Digital Camera: 11101
+Alexa: 9999
+Sandwich Toaster: 2195
+Microwave Oven: 9800
+Scale: 4999
+______________
+Output :3
+The number of employees: 8
+
+The goodies selected for distribution are:
+
+MI Band: 999
+Sandwich Toaster: 2195
+Cult Pass: 2799
+Scale: 4999
+Microwave Oven: 9800
+Alexa: 9999
+Digital Camera: 11101
+IPods: 22349
+
+And the difference between the chosen goodie with highest price and the lowest price is 21350
+
+
+
+
